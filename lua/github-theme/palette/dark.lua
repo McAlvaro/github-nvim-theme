@@ -54,16 +54,16 @@ return function()
 
     -- Syntax Colors
     syntax = {
-      comment = '#6a737d',
-      constant = '#79b8ff',
-      string = '#9ecbff',
+      comment = '#5C6370',
+      constant = '#56B6C2',
+      string = '#98C379',
       variable = '#79b8ff',
       --keyword = '#f97583',
-      keyword = '#00d75f',
+      keyword = '#E06C75',
       --func = '#b392f0',
-      func = '#06989a',
-      func_param = '#e1e4e8',
-      match_paren_bg = '#25686c',
+      func = '#61AFEF',
+      func_param = '#79b8ff',
+      match_paren_bg = '#56B6C2',
       tag = '#85e89d',
       html_arg = '#fdaeb7',
       param = '#ffab70',
