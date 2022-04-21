@@ -59,7 +59,7 @@ return function()
       string = '#98C379',
       variable = '#79b8ff',
       --keyword = '#f97583',
-      keyword = '#E06C75',
+      keyword = '#56d364',
       --func = '#b392f0',
       func = '#61AFEF',
       func_param = '#79b8ff',
